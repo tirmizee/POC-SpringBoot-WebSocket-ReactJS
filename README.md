@@ -4,4 +4,4 @@
 
 #### Dependencies
 
-  npm i sockjs-client --save
+    npm i sockjs-client --save
