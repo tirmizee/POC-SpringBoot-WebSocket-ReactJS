@@ -4,5 +4,6 @@
 
 #### Dependencies
 
-    npm i sockjs-client --save
-    npm i stompjs --save
+    npm i sockjs-client -S
+    npm i stompjs -S
+    npm i net -S
